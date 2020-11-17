@@ -1,0 +1,9 @@
+<% if current_page?(new_note_path)%>
+New Note
+<% elsif current_page?(root_path)%>
+Post-It-Note
+<%elsif current_page?(notes_path)%>
+Notes
+<%else%>
+Edit Note
+<% end %>
