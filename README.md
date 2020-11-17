@@ -1,24 +1,18 @@
 # README
+- This application has a homepage, notes page, new note, and edit note page.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+--
 
-Things you may want to cover:
+* Notes page: shows all of the notes that were created.
 
-* Ruby version
+* New Note: allows you to create a new note.
 
-* System dependencies
+* Edit Note: allows you to edit the note.
 
-* Configuration
+* The title changes depending on the page you are on.
 
-* Database creation
+* There is a navbar to help you navigate each page.
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
