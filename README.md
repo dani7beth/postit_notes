@@ -1,7 +1,7 @@
 # README
 - This application has a homepage, notes page, new note, and edit note page.
 
---
+---
 
 * Notes page: shows all of the notes that were created.
 
